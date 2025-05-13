@@ -26,7 +26,7 @@ Esta es una implementación básica y clara que utiliza un diccionario para cont
 
 ### 2. Función `solution_pythonic`
 
-Esta es una implementación intermedia y usando los paquetes y modulos que tenemos a nuestra disposicion, que utiliza un collections.Counter para contar las ocurrencias de cada número en la lista. Luego, recorre la lista original para encontrar el primer número único.
+Esta es una implementación intermedia y usando los paquetes y módulos que tenemos a nuestra disposición, que utiliza un collections.Counter para contar las ocurrencias de cada número en la lista. Luego, recorre la lista original para encontrar el primer número único.
 
 ---
 
