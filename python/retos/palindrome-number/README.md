@@ -50,7 +50,7 @@ Esta es una implementación igualmente compacta pero más tradicional que limpia
 
 ## Cómo Ejecutar el Código
 
-1. Asegúrate de tener Python instalado en tu sistema (versión 3.6 o superior).
+1. Asegúrate de tener Python instalado en tu sistema (versión 3.11 o superior).
 2. Copia cualquiera de las funciones (`solution`, `solution_pythonic` o `solution_pythonic_2`) en un archivo Python (por ejemplo, `main.py`).
 3. Ejecuta el archivo desde la terminal o tu entorno de desarrollo preferido.
 4. Prueba cada función utilizando los casos de prueba proporcionados para validar el comportamiento del código.
