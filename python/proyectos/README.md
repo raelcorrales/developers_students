@@ -24,6 +24,14 @@ El `README.md` de cada proyecto explica qué hace, cómo correrlo y qué tecnolo
 
 ---
 
+## 📋 Proyectos Disponibles
+
+| Proyecto | Descripción | Archivos |
+| :--- | :--- | :---: |
+| [**calorie-intake-calculator**](./calorie-intake-calculator/) | Calculadora y procesador de requerimientos nutricionales a partir de datos estructurados JSON. | `main.py`, `notebook.ipynb`, `nutrition.json` |
+
+---
+
 ## 💡 Ejemplos de proyectos posibles
 
 - Conversores (temperatura, divisas, etc.)

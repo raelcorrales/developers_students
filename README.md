@@ -21,16 +21,19 @@ El objetivo principal es aprender resolviendo, explicando y colaborando 🤝.
 
 ## 🗂️ Estructura del repositorio
 
-```
-
+```text
 📁 python/
-├── retos/         → Ejercicios básicos
-    ├── reto_1/         → Ejercicio 1
-    ├── reto_2/         → Ejercicio 2
-    ├── reto_3/         → Ejercicio 3
-└── proyectos/       → Proyectos pequeños (próximamente)
-
-````
+├── retos/                          → Ejercicios y desafíos de lógica (24 retos)
+│   ├── 🟢 Básicos (14)            → fizz-buzz, two-sum, palindrome-number, valid-parentheses,
+│   │                                 anagram-checker, string-compression, merge-sorted-lists,
+│   │                                 contains-duplicate, factorial-formula, fizz-buzz-sum,
+│   │                                 intersection-of-two-lists, is-leap-year, arr-list-len, parking-bill
+│   ├── 🟡 Intermedios (7)         → binary-search, binary-gap, collatz-sequence-steps,
+│   │                                 flatten-list, first-unique, roman-to-integer, longest-password
+│   └── 🔴 Avanzados (3)           → arithmetic-triplets, maximum-sum-of-matrix, select-candidate-skills
+└── proyectos/                      → Proyectos prácticos aplicados
+    └── calorie-intake-calculator/  → Calculadora nutricional procesando datasets JSON
+```
 
 ---
 
